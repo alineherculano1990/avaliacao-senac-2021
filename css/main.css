@@ -68,15 +68,17 @@ nav a {
 }
 
 main section.cloud-info-container {
-     padding: 4px;
+    display: flex;
+    justify-content: center;
+    padding: 4px;
 }
 
 main section article.cloud-info {
-    width: 248px;
+    min-width: 248px;
     height: 266px;
     background-color: #f0f0f0;
-    display: inline-flex;
     padding: 20px;
+    margin: 2px;
 
 }
 
