@@ -61,7 +61,7 @@ nav a {
 }
 
 #carousel {
-    height: 291px;
+    height: 380px;
     width: 100%;
     background: transparent url("../img/banner.jpeg")  no-repeat;
     background-size: cover;
@@ -88,6 +88,7 @@ main section article figure {
 main section article figure figcaption {
     font-size: 14px;
     font-weight: 300;
+    margin-bottom: 10px;
 }
 
 main section article figure h2 {
@@ -99,8 +100,6 @@ main section article figure h2 {
 main section article figure a {
     text-decoration: none;
     color: #636363;
-    bottom: 0;
-    position: absolute;
     text-align: center;
 }
 
